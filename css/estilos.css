@@ -47,6 +47,18 @@ body
 }
 #post
 {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
+=======
+    padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> a49f8ac0e9ecea9dd3c853706c0f156db22bcfbc
 }
